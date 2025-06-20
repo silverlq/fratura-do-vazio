@@ -5,7 +5,7 @@
 		{"id":"fc561c132b82dbd6","type":"text","text":"# [[Sindicato do Véu Sombrio]]","x":60,"y":130,"width":265,"height":100},
 		{"id":"9d31eccd7c9b9de3","type":"text","text":"# [[Ordem de Oráxis]]","x":325,"y":-195,"width":335,"height":95},
 		{"id":"6b00870e09f39cba","type":"text","text":"# Cabal dos [[Lar’mir]]","x":-500,"y":160,"width":330,"height":70},
-		{"id":"31a57662c11a888c","type":"text","text":"# [[Último Voto]]","x":-500,"y":-120,"width":260,"height":90}
+		{"id":"31a57662c11a888c","type":"text","text":"# [[Último Voto]]","x":-500,"y":-120,"width":260,"height":80}
 	],
 	"edges":[
 		{"id":"6be234ac2a405b22","fromNode":"3fd0dbd2a640ee21","fromSide":"bottom","toNode":"9d31eccd7c9b9de3","toSide":"top","toEnd":"none","label":"colonizador/indígena"},

@@ -1,6 +1,6 @@
 {
   "vaultName": "fratura-do-vazio",
-  "lastExport": 1750434757248,
+  "lastExport": 1750435769191,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -12,152 +12,13 @@
     "Facções/Ordem de Oráxis.md",
     "Facções/Sindicato do Véu Sombrio.md",
     "Facções/Último Voto.md",
-    "html/facções/conglomerado-polux.html",
-    "html/facções/diagrama-das-facções.html",
-    "html/facções/guilda-dos-exploradores.html",
-    "html/facções/ordem-de-oráxis.html",
-    "html/facções/sindicato-do-véu-sombrio.html",
-    "html/facções/último-voto.html",
-    "html/html/facções/conglomerado-polux.html",
-    "html/html/facções/diagrama-das-facções.html",
-    "html/html/facções/guilda-dos-exploradores.html",
-    "html/html/facções/ordem-de-oráxis.html",
-    "html/html/facções/sindicato-do-véu-sombrio.html",
-    "html/html/facções/último-voto.html",
-    "html/html/lib/html/file-tree.html",
-    "html/html/lugares/portal-de-oráxis.html",
-    "html/html/raças/faeren.html",
-    "html/html/raças/lar’mir.html",
-    "html/html/raças/murnak.html",
-    "html/html/raças/zex.html",
-    "html/html/fratura-do-vazio.html",
-    "html/html/mapa-do-setor-galáctico.html",
-    "html/lib/fonts/2d5198822ab091ce4305.woff2",
-    "html/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "html/lib/fonts/05b618077343fbbd92b7.ttf",
-    "html/lib/fonts/52ac8f3034507f1d9e53.ttf",
-    "html/lib/fonts/70cc7ff27245e82ad414.ttf",
-    "html/lib/fonts/94f2f163d4b698242fef.otf",
-    "html/lib/fonts/535a6cf662596b3bd6a6.woff2",
-    "html/lib/fonts/72505e6a122c6acd5471.woff2",
-    "html/lib/fonts/454577c22304619db035.ttf",
-    "html/lib/fonts/b5f0f109bc88052d4000.woff2",
-    "html/lib/fonts/c8ba52b05a9ef10f4758.woff2",
-    "html/lib/fonts/cb10ffd7684cd9836a05.woff2",
-    "html/lib/fonts/cbe0ae49c52c920fd563.woff2",
-    "html/lib/html/file-tree.html",
-    "html/lib/media/6155340132a851f6089e.svg",
-    "html/lib/media/architect-mask.svg",
-    "html/lib/media/base-dome.svg",
-    "html/lib/media/bull.svg",
-    "html/lib/media/bull-horns.svg",
-    "html/lib/media/cyber-eye.svg",
-    "html/lib/media/favicon.png",
-    "html/lib/media/grasping-claws.svg",
-    "html/lib/media/halberd-shuriken.svg",
-    "html/lib/media/orbital.svg",
-    "html/lib/media/tarot-06-the-lovers.svg",
-    "html/lib/scripts/graph-data.js",
-    "html/lib/scripts/graph-render-worker.js",
-    "html/lib/scripts/graph-view.js",
-    "html/lib/scripts/graph-wasm.js",
-    "html/lib/scripts/graph-wasm.wasm",
-    "html/lib/scripts/minisearch.js",
-    "html/lib/scripts/pixi.js",
-    "html/lib/scripts/tinycolor.js",
-    "html/lib/scripts/webpage.js",
-    "html/lib/styles/global-variable-styles.css",
-    "html/lib/styles/main-styles.css",
-    "html/lib/styles/obsidian.css",
-    "html/lib/metadata.json",
-    "html/lib/rss.xml",
-    "html/lib/search-index.json",
-    "html/lugares/portal-de-oráxis.html",
-    "html/media/architect-mask.svg",
-    "html/media/asteroid.svg",
-    "html/media/base-dome.svg",
-    "html/media/beam-satellite.svg",
-    "html/media/bull.svg",
-    "html/media/bull-horns.svg",
-    "html/media/burning-meteor.svg",
-    "html/media/cannister.svg",
-    "html/media/cyber-eye.svg",
-    "html/media/defense-satellite.svg",
-    "html/media/delivery-drone.svg",
-    "html/media/double-ringed-orb.svg",
-    "html/media/explosion-rays.svg",
-    "html/media/fluffy-swirl.svg",
-    "html/media/grasping-claws.svg",
-    "html/media/halberd-shuriken.svg",
-    "html/media/hand.svg",
-    "html/media/jupiter.svg",
-    "html/media/liberty-wing.svg",
-    "html/media/moon.svg",
-    "html/media/nested-eclipses.svg",
-    "html/media/orbital.svg",
-    "html/media/orbital-rays.svg",
-    "html/media/plain-circle.svg",
-    "html/media/poison.svg",
-    "html/media/polar-star.svg",
-    "html/media/ringed-planet.svg",
-    "html/media/satellite.svg",
-    "html/media/satellite-communication.svg",
-    "html/media/sectorgriddark.png",
-    "html/media/spiked-halo.svg",
-    "html/media/star-swirl.svg",
-    "html/media/systemgriddark.png",
-    "html/media/tarot-06-the-lovers.svg",
-    "html/media/vortex.svg",
-    "html/media/world.svg",
-    "html/raças/faeren.html",
-    "html/raças/lar’mir.html",
-    "html/raças/murnak.html",
-    "html/raças/zex.html",
-    "html/fratura-do-vazio.html",
-    "html/mapa-do-setor-galáctico.html",
     "Lugares/Portal de Oráxis.md",
-    "media/architect-mask.svg",
-    "media/asteroid.svg",
-    "media/base-dome.svg",
-    "media/beam-satellite.svg",
-    "media/bull.svg",
-    "media/bull-horns.svg",
-    "media/burning-meteor.svg",
-    "media/cannister.svg",
-    "media/cyber-eye.svg",
-    "media/defense-satellite.svg",
-    "media/delivery-drone.svg",
-    "media/double-ringed-orb.svg",
-    "media/explosion-rays.svg",
-    "media/fluffy-swirl.svg",
-    "media/grasping-claws.svg",
-    "media/halberd-shuriken.svg",
-    "media/hand.svg",
-    "media/jupiter.svg",
-    "media/liberty-wing.svg",
-    "media/moon.svg",
-    "media/nested-eclipses.svg",
-    "media/orbital.svg",
-    "media/orbital-rays.svg",
-    "media/plain-circle.svg",
-    "media/poison.svg",
-    "media/polar-star.svg",
-    "media/ringed-planet.svg",
-    "media/satellite.svg",
-    "media/satellite-communication.svg",
-    "media/sectorGridDark.png",
-    "media/spiked-halo.svg",
-    "media/star-swirl.svg",
-    "media/systemGridDark.png",
-    "media/tarot-06-the-lovers.svg",
-    "media/vortex.svg",
-    "media/world.svg",
     "Raças/Faeren.md",
     "Raças/Lar’mir.md",
     "Raças/Murnak.md",
     "Raças/Zex.md",
     "Fratura do Vazio.md",
-    "Mapa do Setor Galáctico.md",
+    "media/mapasetor.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -227,7 +88,7 @@
       "dependencies": []
     },
     "Facções/Diagrama das Facções.canvas": {
-      "modifiedTime": 1750434757248,
+      "modifiedTime": 1750435769191,
       "sourceSize": 2347,
       "exportedPath": "facções/diagrama-das-facções.html",
       "dependencies": []
@@ -251,7 +112,7 @@
       "dependencies": []
     },
     "Facções/Último Voto.md": {
-      "modifiedTime": 1750434501141,
+      "modifiedTime": 1750435769191,
       "sourceSize": 721,
       "exportedPath": "facções/último-voto.html",
       "dependencies": []
@@ -260,222 +121,6 @@
       "modifiedTime": 1750434501141,
       "sourceSize": 1122,
       "exportedPath": "lugares/portal-de-oráxis.html",
-      "dependencies": []
-    },
-    "media/architect-mask.svg": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 1219,
-      "exportedPath": "media/architect-mask.svg",
-      "dependencies": []
-    },
-    "media/asteroid.svg": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 3807,
-      "exportedPath": "media/asteroid.svg",
-      "dependencies": []
-    },
-    "media/base-dome.svg": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 1138,
-      "exportedPath": "media/base-dome.svg",
-      "dependencies": []
-    },
-    "media/beam-satellite.svg": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 2550,
-      "exportedPath": "media/beam-satellite.svg",
-      "dependencies": []
-    },
-    "media/bull.svg": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 1018,
-      "exportedPath": "media/bull.svg",
-      "dependencies": []
-    },
-    "media/bull-horns.svg": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 885,
-      "exportedPath": "media/bull-horns.svg",
-      "dependencies": []
-    },
-    "media/burning-meteor.svg": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 1154,
-      "exportedPath": "media/burning-meteor.svg",
-      "dependencies": []
-    },
-    "media/cannister.svg": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 1910,
-      "exportedPath": "media/cannister.svg",
-      "dependencies": []
-    },
-    "media/cyber-eye.svg": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 3562,
-      "exportedPath": "media/cyber-eye.svg",
-      "dependencies": []
-    },
-    "media/defense-satellite.svg": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 2550,
-      "exportedPath": "media/defense-satellite.svg",
-      "dependencies": []
-    },
-    "media/delivery-drone.svg": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 1214,
-      "exportedPath": "media/delivery-drone.svg",
-      "dependencies": []
-    },
-    "media/double-ringed-orb.svg": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 1548,
-      "exportedPath": "media/double-ringed-orb.svg",
-      "dependencies": []
-    },
-    "media/explosion-rays.svg": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 998,
-      "exportedPath": "media/explosion-rays.svg",
-      "dependencies": []
-    },
-    "media/fluffy-swirl.svg": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 1465,
-      "exportedPath": "media/fluffy-swirl.svg",
-      "dependencies": []
-    },
-    "media/grasping-claws.svg": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 1143,
-      "exportedPath": "media/grasping-claws.svg",
-      "dependencies": []
-    },
-    "media/halberd-shuriken.svg": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 1174,
-      "exportedPath": "media/halberd-shuriken.svg",
-      "dependencies": []
-    },
-    "media/hand.svg": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 1536,
-      "exportedPath": "media/hand.svg",
-      "dependencies": []
-    },
-    "media/jupiter.svg": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 1604,
-      "exportedPath": "media/jupiter.svg",
-      "dependencies": []
-    },
-    "media/liberty-wing.svg": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 1196,
-      "exportedPath": "media/liberty-wing.svg",
-      "dependencies": []
-    },
-    "media/moon.svg": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 699,
-      "exportedPath": "media/moon.svg",
-      "dependencies": []
-    },
-    "media/nested-eclipses.svg": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 1002,
-      "exportedPath": "media/nested-eclipses.svg",
-      "dependencies": []
-    },
-    "media/orbital.svg": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 1898,
-      "exportedPath": "media/orbital.svg",
-      "dependencies": []
-    },
-    "media/orbital-rays.svg": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 2553,
-      "exportedPath": "media/orbital-rays.svg",
-      "dependencies": []
-    },
-    "media/plain-circle.svg": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 315,
-      "exportedPath": "media/plain-circle.svg",
-      "dependencies": []
-    },
-    "media/poison.svg": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 505,
-      "exportedPath": "media/poison.svg",
-      "dependencies": []
-    },
-    "media/polar-star.svg": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 984,
-      "exportedPath": "media/polar-star.svg",
-      "dependencies": []
-    },
-    "media/ringed-planet.svg": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 1346,
-      "exportedPath": "media/ringed-planet.svg",
-      "dependencies": []
-    },
-    "media/satellite.svg": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 2212,
-      "exportedPath": "media/satellite.svg",
-      "dependencies": []
-    },
-    "media/satellite-communication.svg": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 1507,
-      "exportedPath": "media/satellite-communication.svg",
-      "dependencies": []
-    },
-    "media/sectorGridDark.png": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 469715,
-      "exportedPath": "media/sectorgriddark.png",
-      "dependencies": []
-    },
-    "media/spiked-halo.svg": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 1155,
-      "exportedPath": "media/spiked-halo.svg",
-      "dependencies": []
-    },
-    "media/star-swirl.svg": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 1138,
-      "exportedPath": "media/star-swirl.svg",
-      "dependencies": []
-    },
-    "media/systemGridDark.png": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 59633,
-      "exportedPath": "media/systemgriddark.png",
-      "dependencies": []
-    },
-    "media/tarot-06-the-lovers.svg": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 1989,
-      "exportedPath": "media/tarot-06-the-lovers.svg",
-      "dependencies": []
-    },
-    "media/vortex.svg": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 2070,
-      "exportedPath": "media/vortex.svg",
-      "dependencies": []
-    },
-    "media/world.svg": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 1239,
-      "exportedPath": "media/world.svg",
       "dependencies": []
     },
     "Raças/Faeren.md": {
@@ -503,807 +148,191 @@
       "dependencies": []
     },
     "Fratura do Vazio.md": {
-      "modifiedTime": 1750434331098,
-      "sourceSize": 917,
+      "modifiedTime": 1750435769191,
+      "sourceSize": 932,
       "exportedPath": "fratura-do-vazio.html",
-      "dependencies": []
-    },
-    "Mapa do Setor Galáctico.md": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 532859,
-      "exportedPath": "mapa-do-setor-galáctico.html",
-      "dependencies": []
+      "dependencies": [
+        "media/mapasetor.png"
+      ]
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1750434757248,
+      "modifiedTime": 1750435769191,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1750434757248,
+      "modifiedTime": 1750435769191,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1750434757248,
+      "modifiedTime": 1750435769191,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1750434757248,
+      "modifiedTime": 1750435769191,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1750434757248,
+      "modifiedTime": 1750435769191,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1750434757248,
+      "modifiedTime": 1750435769191,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1750434757248,
+      "modifiedTime": 1750435769191,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1750434757248,
+      "modifiedTime": 1750435769191,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1750434757248,
+      "modifiedTime": 1750435769191,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1750434757248,
+      "modifiedTime": 1750435769191,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1750434757248,
+      "modifiedTime": 1750435769191,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1750434757248,
+      "modifiedTime": 1750435769191,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1750434757248,
+      "modifiedTime": 1750435769191,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1750434757248,
+      "modifiedTime": 1750435769191,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1750434757248,
+      "modifiedTime": 1750435769191,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1750434757248,
-      "sourceSize": 85127,
+      "modifiedTime": 1750435769191,
+      "sourceSize": 24366,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1750434757248,
+      "modifiedTime": 1750435769191,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1750434757248,
+      "modifiedTime": 1750435769191,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1750434757248,
+      "modifiedTime": 1750435769191,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1750434757248,
+      "modifiedTime": 1750435769191,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1750434757248,
+      "modifiedTime": 1750435769191,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1750434757248,
+      "modifiedTime": 1750435769191,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1750434757248,
+      "modifiedTime": 1750435769191,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1750434757248,
+      "modifiedTime": 1750435769191,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1750434757248,
-      "sourceSize": 1247,
+      "modifiedTime": 1750435769191,
+      "sourceSize": 1175,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1750434757248,
+      "modifiedTime": 1750435769191,
       "sourceSize": 138258,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1750434757248,
+      "modifiedTime": 1750435769191,
       "sourceSize": 262,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1750434757248,
+      "modifiedTime": 1750435769191,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
-    "html/facções/conglomerado-polux.html": {
-      "modifiedTime": 1750434757248,
-      "sourceSize": 27466,
-      "exportedPath": "html/facções/conglomerado-polux.html",
-      "dependencies": []
-    },
-    "html/facções/diagrama-das-facções.html": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 70933,
-      "exportedPath": "html/facções/diagrama-das-facções.html",
-      "dependencies": []
-    },
-    "html/facções/guilda-dos-exploradores.html": {
-      "modifiedTime": 1750434757248,
-      "sourceSize": 26925,
-      "exportedPath": "html/facções/guilda-dos-exploradores.html",
-      "dependencies": []
-    },
-    "html/facções/ordem-de-oráxis.html": {
-      "modifiedTime": 1750434757248,
-      "sourceSize": 23064,
-      "exportedPath": "html/facções/ordem-de-oráxis.html",
-      "dependencies": []
-    },
-    "html/facções/sindicato-do-véu-sombrio.html": {
-      "modifiedTime": 1750434757248,
-      "sourceSize": 28537,
-      "exportedPath": "html/facções/sindicato-do-véu-sombrio.html",
-      "dependencies": []
-    },
-    "html/facções/último-voto.html": {
-      "modifiedTime": 1750434757248,
-      "sourceSize": 23272,
-      "exportedPath": "html/facções/último-voto.html",
-      "dependencies": []
-    },
-    "html/lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 104332,
-      "exportedPath": "html/lib/fonts/2d5198822ab091ce4305.woff2",
-      "dependencies": []
-    },
-    "html/lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 7876,
-      "exportedPath": "html/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-      "dependencies": []
-    },
-    "html/lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 155288,
-      "exportedPath": "html/lib/fonts/05b618077343fbbd92b7.ttf",
-      "dependencies": []
-    },
-    "html/lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 191568,
-      "exportedPath": "html/lib/fonts/52ac8f3034507f1d9e53.ttf",
-      "dependencies": []
-    },
-    "html/lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 192740,
-      "exportedPath": "html/lib/fonts/70cc7ff27245e82ad414.ttf",
-      "dependencies": []
-    },
-    "html/lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 66800,
-      "exportedPath": "html/lib/fonts/94f2f163d4b698242fef.otf",
-      "dependencies": []
-    },
-    "html/lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 111708,
-      "exportedPath": "html/lib/fonts/535a6cf662596b3bd6a6.woff2",
-      "dependencies": []
-    },
-    "html/lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 104232,
-      "exportedPath": "html/lib/fonts/72505e6a122c6acd5471.woff2",
-      "dependencies": []
-    },
-    "html/lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 161376,
-      "exportedPath": "html/lib/fonts/454577c22304619db035.ttf",
-      "dependencies": []
-    },
-    "html/lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 105804,
-      "exportedPath": "html/lib/fonts/b5f0f109bc88052d4000.woff2",
-      "dependencies": []
-    },
-    "html/lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 98868,
-      "exportedPath": "html/lib/fonts/c8ba52b05a9ef10f4758.woff2",
-      "dependencies": []
-    },
-    "html/lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 106876,
-      "exportedPath": "html/lib/fonts/cb10ffd7684cd9836a05.woff2",
-      "dependencies": []
-    },
-    "html/lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 106108,
-      "exportedPath": "html/lib/fonts/cbe0ae49c52c920fd563.woff2",
-      "dependencies": []
-    },
-    "html/lib/html/file-tree.html": {
-      "modifiedTime": 1750434757248,
-      "sourceSize": 76188,
-      "exportedPath": "html/lib/html/file-tree.html",
-      "dependencies": []
-    },
-    "html/lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1750434757248,
-      "sourceSize": 315,
-      "exportedPath": "html/lib/media/6155340132a851f6089e.svg",
-      "dependencies": []
-    },
-    "html/lib/media/architect-mask.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 1219,
-      "exportedPath": "html/lib/media/architect-mask.svg",
-      "dependencies": []
-    },
-    "html/lib/media/base-dome.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 1138,
-      "exportedPath": "html/lib/media/base-dome.svg",
-      "dependencies": []
-    },
-    "html/lib/media/bull.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 1018,
-      "exportedPath": "html/lib/media/bull.svg",
-      "dependencies": []
-    },
-    "html/lib/media/bull-horns.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 885,
-      "exportedPath": "html/lib/media/bull-horns.svg",
-      "dependencies": []
-    },
-    "html/lib/media/cyber-eye.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 3562,
-      "exportedPath": "html/lib/media/cyber-eye.svg",
-      "dependencies": []
-    },
-    "html/lib/media/favicon.png": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 1105,
-      "exportedPath": "html/lib/media/favicon.png",
-      "dependencies": []
-    },
-    "html/lib/media/grasping-claws.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 1143,
-      "exportedPath": "html/lib/media/grasping-claws.svg",
-      "dependencies": []
-    },
-    "html/lib/media/halberd-shuriken.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 1174,
-      "exportedPath": "html/lib/media/halberd-shuriken.svg",
-      "dependencies": []
-    },
-    "html/lib/media/orbital.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 1898,
-      "exportedPath": "html/lib/media/orbital.svg",
-      "dependencies": []
-    },
-    "html/lib/media/tarot-06-the-lovers.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 1989,
-      "exportedPath": "html/lib/media/tarot-06-the-lovers.svg",
-      "dependencies": []
-    },
-    "html/lib/scripts/graph-data.js": {
-      "modifiedTime": 1750434757248,
-      "sourceSize": 1281,
-      "exportedPath": "html/lib/scripts/graph-data.js",
-      "dependencies": []
-    },
-    "html/lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 5179,
-      "exportedPath": "html/lib/scripts/graph-render-worker.js",
-      "dependencies": []
-    },
-    "html/lib/scripts/graph-view.js": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 15519,
-      "exportedPath": "html/lib/scripts/graph-view.js",
-      "dependencies": []
-    },
-    "html/lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 14021,
-      "exportedPath": "html/lib/scripts/graph-wasm.js",
-      "dependencies": []
-    },
-    "html/lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 23377,
-      "exportedPath": "html/lib/scripts/graph-wasm.wasm",
-      "dependencies": []
-    },
-    "html/lib/scripts/minisearch.js": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 29422,
-      "exportedPath": "html/lib/scripts/minisearch.js",
-      "dependencies": []
-    },
-    "html/lib/scripts/pixi.js": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 449511,
-      "exportedPath": "html/lib/scripts/pixi.js",
-      "dependencies": []
-    },
-    "html/lib/scripts/tinycolor.js": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 29832,
-      "exportedPath": "html/lib/scripts/tinycolor.js",
-      "dependencies": []
-    },
-    "html/lib/scripts/webpage.js": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 47290,
-      "exportedPath": "html/lib/scripts/webpage.js",
-      "dependencies": []
-    },
-    "html/lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1750434757248,
-      "sourceSize": 262,
-      "exportedPath": "html/lib/styles/global-variable-styles.css",
-      "dependencies": []
-    },
-    "html/lib/styles/main-styles.css": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 23130,
-      "exportedPath": "html/lib/styles/main-styles.css",
-      "dependencies": []
-    },
-    "html/lib/styles/obsidian.css": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 138270,
-      "exportedPath": "html/lib/styles/obsidian.css",
-      "dependencies": []
-    },
-    "html/lib/metadata.json": {
-      "modifiedTime": 1750434757248,
-      "sourceSize": 40437,
-      "exportedPath": "html/lib/metadata.json",
-      "dependencies": []
-    },
-    "html/lib/rss.xml": {
-      "modifiedTime": 1750434757248,
-      "sourceSize": 120737,
-      "exportedPath": "html/lib/rss.xml",
-      "dependencies": []
-    },
-    "html/lib/search-index.json": {
-      "modifiedTime": 1750434757248,
-      "sourceSize": 38268,
-      "exportedPath": "html/lib/search-index.json",
-      "dependencies": []
-    },
-    "html/lugares/portal-de-oráxis.html": {
-      "modifiedTime": 1750434757248,
-      "sourceSize": 23452,
-      "exportedPath": "html/lugares/portal-de-oráxis.html",
-      "dependencies": []
-    },
-    "html/media/architect-mask.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 1219,
-      "exportedPath": "html/media/architect-mask.svg",
-      "dependencies": []
-    },
-    "html/media/asteroid.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 3807,
-      "exportedPath": "html/media/asteroid.svg",
-      "dependencies": []
-    },
-    "html/media/base-dome.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 1138,
-      "exportedPath": "html/media/base-dome.svg",
-      "dependencies": []
-    },
-    "html/media/beam-satellite.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 2550,
-      "exportedPath": "html/media/beam-satellite.svg",
-      "dependencies": []
-    },
-    "html/media/bull.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 1018,
-      "exportedPath": "html/media/bull.svg",
-      "dependencies": []
-    },
-    "html/media/bull-horns.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 885,
-      "exportedPath": "html/media/bull-horns.svg",
-      "dependencies": []
-    },
-    "html/media/burning-meteor.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 1154,
-      "exportedPath": "html/media/burning-meteor.svg",
-      "dependencies": []
-    },
-    "html/media/cannister.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 1910,
-      "exportedPath": "html/media/cannister.svg",
-      "dependencies": []
-    },
-    "html/media/cyber-eye.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 3562,
-      "exportedPath": "html/media/cyber-eye.svg",
-      "dependencies": []
-    },
-    "html/media/defense-satellite.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 2550,
-      "exportedPath": "html/media/defense-satellite.svg",
-      "dependencies": []
-    },
-    "html/media/delivery-drone.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 1214,
-      "exportedPath": "html/media/delivery-drone.svg",
-      "dependencies": []
-    },
-    "html/media/double-ringed-orb.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 1548,
-      "exportedPath": "html/media/double-ringed-orb.svg",
-      "dependencies": []
-    },
-    "html/media/explosion-rays.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 998,
-      "exportedPath": "html/media/explosion-rays.svg",
-      "dependencies": []
-    },
-    "html/media/fluffy-swirl.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 1465,
-      "exportedPath": "html/media/fluffy-swirl.svg",
-      "dependencies": []
-    },
-    "html/media/grasping-claws.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 1143,
-      "exportedPath": "html/media/grasping-claws.svg",
-      "dependencies": []
-    },
-    "html/media/halberd-shuriken.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 1174,
-      "exportedPath": "html/media/halberd-shuriken.svg",
-      "dependencies": []
-    },
-    "html/media/hand.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 1536,
-      "exportedPath": "html/media/hand.svg",
-      "dependencies": []
-    },
-    "html/media/jupiter.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 1604,
-      "exportedPath": "html/media/jupiter.svg",
-      "dependencies": []
-    },
-    "html/media/liberty-wing.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 1196,
-      "exportedPath": "html/media/liberty-wing.svg",
-      "dependencies": []
-    },
-    "html/media/moon.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 699,
-      "exportedPath": "html/media/moon.svg",
-      "dependencies": []
-    },
-    "html/media/nested-eclipses.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 1002,
-      "exportedPath": "html/media/nested-eclipses.svg",
-      "dependencies": []
-    },
-    "html/media/orbital.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 1898,
-      "exportedPath": "html/media/orbital.svg",
-      "dependencies": []
-    },
-    "html/media/orbital-rays.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 2553,
-      "exportedPath": "html/media/orbital-rays.svg",
-      "dependencies": []
-    },
-    "html/media/plain-circle.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 315,
-      "exportedPath": "html/media/plain-circle.svg",
-      "dependencies": []
-    },
-    "html/media/poison.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 505,
-      "exportedPath": "html/media/poison.svg",
-      "dependencies": []
-    },
-    "html/media/polar-star.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 984,
-      "exportedPath": "html/media/polar-star.svg",
-      "dependencies": []
-    },
-    "html/media/ringed-planet.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 1346,
-      "exportedPath": "html/media/ringed-planet.svg",
-      "dependencies": []
-    },
-    "html/media/satellite.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 2212,
-      "exportedPath": "html/media/satellite.svg",
-      "dependencies": []
-    },
-    "html/media/satellite-communication.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 1507,
-      "exportedPath": "html/media/satellite-communication.svg",
-      "dependencies": []
-    },
-    "html/media/sectorgriddark.png": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 469715,
-      "exportedPath": "html/media/sectorgriddark.png",
-      "dependencies": []
-    },
-    "html/media/spiked-halo.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 1155,
-      "exportedPath": "html/media/spiked-halo.svg",
-      "dependencies": []
-    },
-    "html/media/star-swirl.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 1138,
-      "exportedPath": "html/media/star-swirl.svg",
-      "dependencies": []
-    },
-    "html/media/systemgriddark.png": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 59633,
-      "exportedPath": "html/media/systemgriddark.png",
-      "dependencies": []
-    },
-    "html/media/tarot-06-the-lovers.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 1989,
-      "exportedPath": "html/media/tarot-06-the-lovers.svg",
-      "dependencies": []
-    },
-    "html/media/vortex.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 2070,
-      "exportedPath": "html/media/vortex.svg",
-      "dependencies": []
-    },
-    "html/media/world.svg": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 1239,
-      "exportedPath": "html/media/world.svg",
-      "dependencies": []
-    },
-    "html/raças/faeren.html": {
-      "modifiedTime": 1750434757248,
-      "sourceSize": 25659,
-      "exportedPath": "html/raças/faeren.html",
-      "dependencies": []
-    },
-    "html/raças/lar’mir.html": {
-      "modifiedTime": 1750434757248,
-      "sourceSize": 27700,
-      "exportedPath": "html/raças/lar’mir.html",
-      "dependencies": []
-    },
-    "html/raças/murnak.html": {
-      "modifiedTime": 1750434757248,
-      "sourceSize": 24160,
-      "exportedPath": "html/raças/murnak.html",
-      "dependencies": []
-    },
-    "html/raças/zex.html": {
-      "modifiedTime": 1750434757248,
-      "sourceSize": 28832,
-      "exportedPath": "html/raças/zex.html",
-      "dependencies": []
-    },
-    "html/fratura-do-vazio.html": {
-      "modifiedTime": 1750434501141,
-      "sourceSize": 39276,
-      "exportedPath": "html/fratura-do-vazio.html",
-      "dependencies": []
-    },
-    "html/mapa-do-setor-galáctico.html": {
-      "modifiedTime": 1750434757248,
-      "sourceSize": 1992177,
-      "exportedPath": "html/mapa-do-setor-galáctico.html",
-      "dependencies": []
-    },
-    "html/html/facções/conglomerado-polux.html": {
-      "modifiedTime": 1750434757248,
-      "sourceSize": 26516,
-      "exportedPath": "html/html/facções/conglomerado-polux.html",
-      "dependencies": []
-    },
-    "html/html/facções/diagrama-das-facções.html": {
-      "modifiedTime": 1750434757248,
-      "sourceSize": 70933,
-      "exportedPath": "html/html/facções/diagrama-das-facções.html",
-      "dependencies": []
-    },
-    "html/html/facções/guilda-dos-exploradores.html": {
-      "modifiedTime": 1750434757248,
-      "sourceSize": 25984,
-      "exportedPath": "html/html/facções/guilda-dos-exploradores.html",
-      "dependencies": []
-    },
-    "html/html/facções/ordem-de-oráxis.html": {
-      "modifiedTime": 1750434757248,
-      "sourceSize": 22129,
-      "exportedPath": "html/html/facções/ordem-de-oráxis.html",
-      "dependencies": []
-    },
-    "html/html/facções/sindicato-do-véu-sombrio.html": {
-      "modifiedTime": 1750434757248,
-      "sourceSize": 28834,
-      "exportedPath": "html/html/facções/sindicato-do-véu-sombrio.html",
-      "dependencies": []
-    },
-    "html/html/facções/último-voto.html": {
-      "modifiedTime": 1750434757248,
-      "sourceSize": 22382,
-      "exportedPath": "html/html/facções/último-voto.html",
-      "dependencies": []
-    },
-    "html/html/lib/html/file-tree.html": {
-      "modifiedTime": 1750434757248,
-      "sourceSize": 37623,
-      "exportedPath": "html/html/lib/html/file-tree.html",
-      "dependencies": []
-    },
-    "html/html/lugares/portal-de-oráxis.html": {
-      "modifiedTime": 1750434757248,
-      "sourceSize": 21593,
-      "exportedPath": "html/html/lugares/portal-de-oráxis.html",
-      "dependencies": []
-    },
-    "html/html/raças/faeren.html": {
-      "modifiedTime": 1750434757248,
-      "sourceSize": 25946,
-      "exportedPath": "html/html/raças/faeren.html",
-      "dependencies": []
-    },
-    "html/html/raças/lar’mir.html": {
-      "modifiedTime": 1750434757248,
-      "sourceSize": 25583,
-      "exportedPath": "html/html/raças/lar’mir.html",
-      "dependencies": []
-    },
-    "html/html/raças/murnak.html": {
-      "modifiedTime": 1750434757248,
-      "sourceSize": 24397,
-      "exportedPath": "html/html/raças/murnak.html",
-      "dependencies": []
-    },
-    "html/html/raças/zex.html": {
-      "modifiedTime": 1750434757248,
-      "sourceSize": 29094,
-      "exportedPath": "html/html/raças/zex.html",
-      "dependencies": []
-    },
-    "html/html/fratura-do-vazio.html": {
-      "modifiedTime": 1750434757248,
-      "sourceSize": 39276,
-      "exportedPath": "html/html/fratura-do-vazio.html",
-      "dependencies": []
-    },
-    "html/html/mapa-do-setor-galáctico.html": {
-      "modifiedTime": 1750434757248,
-      "sourceSize": 1992177,
-      "exportedPath": "html/html/mapa-do-setor-galáctico.html",
-      "dependencies": []
-    },
     "lib/styles/theme.css": {
-      "modifiedTime": 1750434757248,
+      "modifiedTime": 1750435769191,
       "sourceSize": 28931,
       "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "media/mapasetor.png": {
+      "modifiedTime": 1750435769191,
+      "sourceSize": 372470,
+      "exportedPath": "media/mapasetor.png",
       "dependencies": []
     }
   }
