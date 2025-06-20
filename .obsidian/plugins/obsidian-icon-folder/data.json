@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "GiTarot06TheLovers",
+      "GiRebelHeart",
+      "GiTarotTheLovers",
       "GiNestedEclipses",
       "LiMap",
-      "GiCyberEye",
-      "GiBull"
+      "GiCyberEye"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,7 +34,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Facções/Último Voto.md": "GiTarot06TheLovers",
   "Facções/Sindicato do Véu Sombrio.md": "GiHalberdShuriken",
   "Facções/Ordem de Oráxis.md": "GiBullHorns",
   "Facções/Guilda dos Exploradores.md": "GiBaseDome",
@@ -45,5 +44,6 @@
   "Raças/Murnak.md": "GiBull",
   "Raças/Zex.md": "GiCyberEye",
   "Mapa do Setor Galáctico.md": "LiMap",
-  "Lugares/Portal de Oráxis.md": "GiNestedEclipses"
+  "Lugares/Portal de Oráxis.md": "GiNestedEclipses",
+  "Facções/Último Voto.md": "GiRebelHeart"
 }

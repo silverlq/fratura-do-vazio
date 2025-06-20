@@ -45,6 +45,11 @@
   "defaultMediaIcon": "lucide//file-image",
   "exportPath": "C:\\\\git\\fratura-do-vazio\\docs",
   "filesToExport": [
-    []
+    [
+      "Facções",
+      "Lugares",
+      "Raças",
+      "Fratura do Vazio.md"
+    ]
   ]
 }

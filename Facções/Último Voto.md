@@ -1,5 +1,5 @@
 ---
-icon: GiTarot06TheLovers
+icon: GiRebelHeart
 ---
 Aliança rebelde formada por dissidentes [[Murnak]], [[Faeren]], humanos e outros povos oprimidos pela expansão do [[Conglomerado Polux]]. Não lutam por conquistas territoriais ou riquezas, mas pela libertação dos sistemas subjugados e pela restauração do equilíbrio político e cultural na galáxia.
 
