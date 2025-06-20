@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"3fd0dbd2a640ee21","type":"text","text":"### [[Conglomerado Polux]]","x":40,"y":-360,"width":380,"height":96},
-		{"id":"86374ba0f999ce38","type":"text","text":"### [[Guilda dos Exploradores]]","x":-480,"y":-370,"width":218,"height":128},
-		{"id":"fc561c132b82dbd6","type":"text","text":"### [[Sindicato do Véu Sombrio]]","x":60,"y":130,"width":240,"height":125},
-		{"id":"6b00870e09f39cba","type":"text","text":"### Cabal dos [[Lar’mir]]","x":-500,"y":160,"width":281,"height":87},
-		{"id":"9d31eccd7c9b9de3","type":"text","text":"### [[Ordem de Oráxis]]","x":340,"y":-167,"width":273,"height":94},
-		{"id":"31a57662c11a888c","type":"text","text":"### [[Último Voto]]","x":-540,"y":-73,"width":240,"height":90}
+		{"id":"86374ba0f999ce38","type":"text","text":"### [[Guilda dos Exploradores]]","x":-520,"y":-440,"width":198,"height":151},
+		{"id":"6b00870e09f39cba","type":"text","text":"### Cabal dos [[Lar’mir]]","x":-500,"y":160,"width":266,"height":120},
+		{"id":"31a57662c11a888c","type":"text","text":"### [[Último Voto]]","x":-540,"y":-73,"width":212,"height":114},
+		{"id":"9d31eccd7c9b9de3","type":"text","text":"### [[Ordem de Oráxis]]","x":380,"y":-167,"width":261,"height":106},
+		{"id":"fc561c132b82dbd6","type":"text","text":"### [[Sindicato do Véu Sombrio]]","x":83,"y":141,"width":216,"height":148},
+		{"id":"3fd0dbd2a640ee21","type":"text","text":"### [[Conglomerado Polux]]","x":40,"y":-400,"width":302,"height":110}
 	],
 	"edges":[
 		{"id":"6be234ac2a405b22","fromNode":"3fd0dbd2a640ee21","fromSide":"bottom","toNode":"9d31eccd7c9b9de3","toSide":"top","toEnd":"none","label":"colonizador/indígena"},
