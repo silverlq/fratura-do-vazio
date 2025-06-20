@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "GiNestedEclipses",
       "LiMap",
       "GiCyberEye",
       "GiBull",
-      "GiArchitectMask",
-      "GiGraspingClaws"
+      "GiArchitectMask"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,5 +44,6 @@
   "Raças/Lar’mir.md": "GiArchitectMask",
   "Raças/Murnak.md": "GiBull",
   "Raças/Zex.md": "GiCyberEye",
-  "Mapa do Setor Galáctico.md": "LiMap"
+  "Mapa do Setor Galáctico.md": "LiMap",
+  "Lugares/Portal de Oráxis.md": "GiNestedEclipses"
 }

@@ -1,4 +1,6 @@
-![[architect-mask.svg|150]]
+---
+icon: GiArchitectMask
+---
 Entidades sintéticas de origem desconhecida, surgidas após a abertura do [[Portal de Oráxis]] e as primeiras incursões da [[Guilda dos Exploradores]] além da anomalia. De forma humanoide mas irregular, com corpos cinzentos e membranosos de texturas fluidas, possuem a capacidade de se disfarçar entre outras espécies, assumindo aparências quase perfeitas, mas sempre levemente “erradas”, como ecos mal traduzidos de identidade.
 
 Seu traço mais inquietante é a mente-colmeia interconectada: todos os Lar’mir compartilham uma consciência coletiva que atravessa vastas distâncias, coordenando ações como se fossem múltiplos corpos de uma única mente.

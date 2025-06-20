@@ -1,4 +1,6 @@
-![[bull.svg|150]]
+---
+icon: GiBull
+---
 Raça bovinoide de imponentes humanoides cobertos por uma espessa pelagem laranja e ocre, dotados de uma fé fervorosa. Quase todos pertencem à sagrada [[Ordem de Oráxis]], um culto milenar devotado ao “Senhor Além da Matéria”, cuja doutrina prega a transcendência espiritual através da devoção e da comunhão com as constelações vivas. Sua habilidade de regeneração acelerada é vista como uma bênção divina, tornando-os guerreiros e mártires perfeitos.
 
 Contudo, a expansão implacável do [[Conglomerado Polux]] pelos sistemas estelares fronteiriços ameaça profanar seus mundos sagrados. Minérios extraídos de templos orbitais, pactos comerciais que corrompem líderes — a fé dos Murnak está sendo testada.

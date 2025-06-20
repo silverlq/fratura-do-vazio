@@ -1,4 +1,6 @@
-![[orbital.svg|150]]
+---
+icon: GiOrbital
+---
 Megacorporação intergaláctica que se tornou a força política, econômica e militar dominante em diversos sistemas estelares. Seu poder se sustenta sobre acordos comerciais agressivos, monopólios tecnológicos e a exploração desenfreada dos recursos encontrados do outro lado do [[Portal de Oráxis]] — especialmente o valioso isorídeo estelar.
 
 O Conglomerado é o suserano da [[Guilda dos Exploradores]], financiando suas expedições em troca de controle sobre as descobertas e territórios explorados. Colonizou regiões consideradas sagradas pela [[Ordem de Oráxis]], gerando um conflito ideológico e religioso profundo.
