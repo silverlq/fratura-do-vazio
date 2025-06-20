@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiMap",
+      "GiCyberEye",
+      "GiBull",
+      "GiArchitectMask",
+      "GiGraspingClaws"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -27,5 +33,16 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "Facções/Último Voto.md": "GiTarot06TheLovers",
+  "Facções/Sindicato do Véu Sombrio.md": "GiHalberdShuriken",
+  "Facções/Ordem de Oráxis.md": "GiBullHorns",
+  "Facções/Guilda dos Exploradores.md": "GiBaseDome",
+  "Facções/Conglomerado Polux.md": "GiOrbital",
+  "Facções/Diagrama das Facções.canvas": "LiSquareStack",
+  "Raças/Faeren.md": "GiGraspingClaws",
+  "Raças/Lar’mir.md": "GiArchitectMask",
+  "Raças/Murnak.md": "GiBull",
+  "Raças/Zex.md": "GiCyberEye",
+  "Mapa do Setor Galáctico.md": "LiMap"
 }
