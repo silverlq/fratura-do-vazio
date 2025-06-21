@@ -1,6 +1,6 @@
 {
   "vaultName": "fratura-do-vazio",
-  "lastExport": 1750457964834,
+  "lastExport": 1750480154112,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -18,6 +18,10 @@
     "Raças/Murnak.md",
     "Raças/Zex.md",
     "Fratura do Vazio.md",
+    "lib/media/cat-dustin-humes.png",
+    "lib/media/sculpt-alexander-voronov.png",
+    "lib/media/bull-erika-balode.png",
+    "lib/media/cyborg-ophelie-bonavita.png",
     "media/anomalia-joel-filipe.png",
     "media/mapasetor.png",
     "lib/fonts/94f2f163d4b698242fef.otf",
@@ -71,226 +75,258 @@
   ],
   "fileInfo": {
     "Facções/Conglomerado Polux.md": {
-      "modifiedTime": 1750457964834,
+      "modifiedTime": 1750480154112,
       "sourceSize": 1232,
       "exportedPath": "facções/conglomerado-polux.html",
       "dependencies": []
     },
     "Facções/Diagrama das Facções.canvas": {
-      "modifiedTime": 1750457964834,
+      "modifiedTime": 1750480154112,
       "sourceSize": 2362,
       "exportedPath": "facções/diagrama-das-facções.html",
       "dependencies": []
     },
     "Facções/Guilda dos Exploradores.md": {
-      "modifiedTime": 1750457964834,
+      "modifiedTime": 1750480154112,
       "sourceSize": 808,
       "exportedPath": "facções/guilda-dos-exploradores.html",
       "dependencies": []
     },
     "Facções/Ordem de Oráxis.md": {
-      "modifiedTime": 1750457964834,
+      "modifiedTime": 1750480154112,
       "sourceSize": 970,
       "exportedPath": "facções/ordem-de-oráxis.html",
       "dependencies": []
     },
     "Facções/Sindicato do Véu Sombrio.md": {
-      "modifiedTime": 1750457964834,
+      "modifiedTime": 1750480154112,
       "sourceSize": 954,
       "exportedPath": "facções/sindicato-do-véu-sombrio.html",
       "dependencies": []
     },
     "Facções/Último Voto.md": {
-      "modifiedTime": 1750457964834,
+      "modifiedTime": 1750480154112,
       "sourceSize": 715,
       "exportedPath": "facções/último-voto.html",
       "dependencies": []
     },
     "Lugares/Portal de Oráxis.md": {
-      "modifiedTime": 1750457964834,
+      "modifiedTime": 1750480154112,
       "sourceSize": 1122,
       "exportedPath": "lugares/portal-de-oráxis.html",
       "dependencies": []
     },
     "Raças/Faeren.md": {
-      "modifiedTime": 1750457964834,
-      "sourceSize": 943,
+      "modifiedTime": 1750480154112,
+      "sourceSize": 973,
       "exportedPath": "raças/faeren.html",
-      "dependencies": []
+      "dependencies": [
+        "lib/media/cat-dustin-humes.png"
+      ]
     },
     "Raças/Lar’mir.md": {
-      "modifiedTime": 1750457964834,
-      "sourceSize": 1424,
+      "modifiedTime": 1750480154112,
+      "sourceSize": 1462,
       "exportedPath": "raças/lar’mir.html",
-      "dependencies": []
+      "dependencies": [
+        "lib/media/sculpt-alexander-voronov.png"
+      ]
     },
     "Raças/Murnak.md": {
-      "modifiedTime": 1750457964834,
-      "sourceSize": 1186,
+      "modifiedTime": 1750480154112,
+      "sourceSize": 1217,
       "exportedPath": "raças/murnak.html",
-      "dependencies": []
+      "dependencies": [
+        "lib/media/bull-erika-balode.png"
+      ]
     },
     "Raças/Zex.md": {
-      "modifiedTime": 1750457964834,
-      "sourceSize": 1368,
+      "modifiedTime": 1750480154112,
+      "sourceSize": 1405,
       "exportedPath": "raças/zex.html",
-      "dependencies": []
+      "dependencies": [
+        "lib/media/cyborg-ophelie-bonavita.png"
+      ]
     },
     "Fratura do Vazio.md": {
-      "modifiedTime": 1750457964834,
-      "sourceSize": 1103,
+      "modifiedTime": 1750480154112,
+      "sourceSize": 1072,
       "exportedPath": "fratura-do-vazio.html",
       "dependencies": [
         "media/anomalia-joel-filipe.png",
         "media/mapasetor.png"
       ]
     },
+    "lib/media/cat-dustin-humes.png": {
+      "modifiedTime": 1750480154112,
+      "sourceSize": 1953853,
+      "exportedPath": "lib/media/cat-dustin-humes.png",
+      "dependencies": []
+    },
+    "lib/media/sculpt-alexander-voronov.png": {
+      "modifiedTime": 1750480154112,
+      "sourceSize": 196178,
+      "exportedPath": "lib/media/sculpt-alexander-voronov.png",
+      "dependencies": []
+    },
+    "lib/media/bull-erika-balode.png": {
+      "modifiedTime": 1750480154112,
+      "sourceSize": 788023,
+      "exportedPath": "lib/media/bull-erika-balode.png",
+      "dependencies": []
+    },
+    "lib/media/cyborg-ophelie-bonavita.png": {
+      "modifiedTime": 1750480154112,
+      "sourceSize": 616310,
+      "exportedPath": "lib/media/cyborg-ophelie-bonavita.png",
+      "dependencies": []
+    },
     "media/anomalia-joel-filipe.png": {
-      "modifiedTime": 1750457964834,
+      "modifiedTime": 1750480154112,
       "sourceSize": 945001,
       "exportedPath": "media/anomalia-joel-filipe.png",
       "dependencies": []
     },
     "media/mapasetor.png": {
-      "modifiedTime": 1750457964834,
+      "modifiedTime": 1750480154112,
       "sourceSize": 372470,
       "exportedPath": "media/mapasetor.png",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1750457964834,
+      "modifiedTime": 1750480154112,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1750457964834,
+      "modifiedTime": 1750480154112,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1750457964834,
+      "modifiedTime": 1750480154112,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1750457964834,
+      "modifiedTime": 1750480154112,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1750457964834,
+      "modifiedTime": 1750480154112,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1750457964834,
+      "modifiedTime": 1750480154112,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1750457964834,
+      "modifiedTime": 1750480154112,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1750457964834,
+      "modifiedTime": 1750480154112,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1750457964834,
+      "modifiedTime": 1750480154112,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1750457964834,
+      "modifiedTime": 1750480154112,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1750457964834,
+      "modifiedTime": 1750480154112,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1750457964834,
+      "modifiedTime": 1750480154112,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1750457964834,
+      "modifiedTime": 1750480154112,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1750457964834,
+      "modifiedTime": 1750480154112,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1750457964834,
+      "modifiedTime": 1750480154112,
       "sourceSize": 26077,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1750457964834,
+      "modifiedTime": 1750480154112,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1750457964834,
+      "modifiedTime": 1750480154112,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1750457964834,
+      "modifiedTime": 1750480154112,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1750457964834,
+      "modifiedTime": 1750480154112,
       "sourceSize": 138258,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1750457964834,
+      "modifiedTime": 1750480154112,
       "sourceSize": 8284,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1750457964834,
+      "modifiedTime": 1750480154112,
       "sourceSize": 262,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1750457964834,
+      "modifiedTime": 1750480154112,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1750457964834,
+      "modifiedTime": 1750480154112,
       "sourceSize": 529,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
