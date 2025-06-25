@@ -1,6 +1,11 @@
 
 /* BANNER IMAGE */
 
+img {
+  border-color: #2bede6;
+  border: 1px solid;
+}
+
 div[src$="#banner"] img,span[src$="#banner"] img
     {
         mask-image:linear-gradient(to bottom,rgba(0,0,0,1.0) 50%,transparent 100%);
@@ -9,6 +14,8 @@ div[src$="#banner"] img,span[src$="#banner"] img
         object-fit:cover;
         top: 0px;
         margin-bottom: -50px;
+        border: 0px;
+        border-color: transparent;
 
     }
 
@@ -38,8 +45,8 @@ div[src$="#zoom"] img:hover,span[src$="#zoom"] img:hover
     transform: scale(2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
 
-div.markdown-preview-section {
-  background-image: url("https://silverlq.github.io/fratura-do-vazio/lib/media/menu-background.jpg");
+div.markdown-source-view, div.markdown-preview-view {
+  background-image: url("https://silverlq.github.io/fratura-do-vazio/media/menu-background.jpg");
   background-size: cover;
 }
 
@@ -47,9 +54,15 @@ body {
   --h1-color: #2bede6;
   --h2-color: #2bede6;
   --h3-color: #2bede6;
+  --h4-color: #2bede6;
   --caret-color: #2bede6;
   --link-color: #2bede6;
-  --text-normal: #aafffc;
+  --text-normal: #aafffc !important;
+
+  --h1-font: "Bruno Ace SC", serif;
+  --h2-font: "Bruno Ace SC", serif;
+  --h3-font: "Bruno Ace SC", serif;
+  --h4-font: "Bruno Ace SC", serif;
 }
 
 
