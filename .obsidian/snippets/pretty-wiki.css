@@ -38,10 +38,20 @@ div[src$="#zoom"] img:hover,span[src$="#zoom"] img:hover
     transform: scale(2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
 
-/* div.markdown-preview-section {
-  background-image: url("/media/menu-background.jpg");
+div.markdown-preview-section {
+  background-image: url("https://silverlq.github.io/fratura-do-vazio/lib/media/menu-background.jpg");
   background-size: cover;
-} */
+}
+
+body {
+  --h1-color: #2bede6;
+  --h2-color: #2bede6;
+  --h3-color: #2bede6;
+  --caret-color: #2bede6;
+  --link-color: #2bede6;
+  --text-normal: #aafffc;
+}
+
 
 /* ======================================================================================= */
 
