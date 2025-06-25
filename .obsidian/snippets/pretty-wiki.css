@@ -37,3 +37,155 @@ div[src$="#zoom"] img:hover,span[src$="#zoom"] img:hover
 {
     transform: scale(2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
+
+/* div.markdown-preview-section {
+  background-image: url("/media/menu-background.jpg");
+  background-size: cover;
+} */
+
+/* ======================================================================================= */
+
+/* Custom CSS */
+div.pbta.sheet li.stat.flexrow {
+    word-wrap: break-word;
+    hyphens: auto;
+    box-sizing: border-box;
+    margin: 0;
+    font-family: inherit;
+    overflow: visible;
+    -webkit-appearance: button;
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    user-select: none;
+    border: 1px solid transparent;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color 0.15s ease-in-out,background-color 0.15s ease-in-out,border-color 0.15s ease-in-out,box-shadow 0.15s ease-in-out;
+    margin-bottom: 1rem;
+    padding: .5rem 3rem;
+    text-transform: uppercase;
+    vertical-align: baseline;
+    cursor: pointer;
+    background: linear-gradient(to bottom, rgba(43,237,230,0.1) 0%, rgba(43,237,230,0.2) 100%);
+    border-color: #2bede6;
+    color: #2bede6;
+}
+
+div.pbta.sheet input {
+    font-family: inherit;
+    width: 100%;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: border-color 0.15s ease-in-out,box-shadow 0.15s ease-in-out;
+    background: linear-gradient(to bottom, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.2) 100%);
+    border: 1px solid rgba(43,237,230,0.7);
+    color: #aafffc;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+div.pbta.sheet label {
+    color: #aafffc;
+     font-family: "Bruno Ace SC", serif;
+    text-shadow: 0px 0px 5px rgba(43,237,230,0.3);
+}
+
+div.pbta.sheet img.profile-img {
+  border-color: #2bede6;
+}
+
+div.pbta.sheet section.window-content {
+  
+  background-image: url("worlds/fratura-do-vazio/media/menu-background.jpg");
+  background-size: cover;
+}
+
+div.pbta.sheet div.sheet-header{
+  max-width: 30em;
+}
+
+div.pbta.sheet {
+  scroll
+}
+
+div.pbta.sheet section.sheet-attributes-top {
+  border-color: rgba(43, 237, 230, 0.2);
+}
+
+
+div.pbta.sheet div.sheet-playbook.flexrow {
+  display: none;
+}
+
+.pbta.sheet .cell__title {
+  border-color: rgba(43, 237, 230, 0.2);
+}
+
+.pbta.sheet button {
+  color: rgb(170, 255, 252);
+}
+
+.pbta.sheet .cell__title button {
+  background-color: black;
+}
+
+.pbta.sheet .tag{
+  color: rgba(43,237,230,0.8);
+  background-color: rgba(43,237,230,0.1);
+}
+
+.pbta.sheet tags, .pbta.sheet select{
+  color: rgba(43,237,230,0.8);
+  background-color: rgba(43,237,230,0.1);
+  border-color: black;
+}
+
+.pbta.sheet {
+  --color-scheme: dark;
+  --color-text-dark-primary: rgb(170, 255, 252);
+  --button-text-color: rgb(170, 255, 252);
+  --color-light-3: rgb(170, 255, 252);
+  --color-checkbox-checked: rgb(43,237,230);
+  --color-checkbox: black;
+  --color-scrollbar: rgba(43, 237, 230, 0.8);
+  --color-scrollbar-track: rgba(43, 237, 230, 0.28);
+}
+
+.pbta.sheet .tabs {
+  border-bottom-color: #2bede6;
+}
+
+.pbta.sheet menu {
+  border-bottom-color: #2bede6;
+}
+
+.pbta.sheet .tabs .item {
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    text-shadow: 0px 0px 5px rgba(43,237,230,0.3);
+    transition: all 0.4s ease;
+    color: #aafffc;
+    text-decoration: none;
+    background-color: transparent;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    border: none;
+    border-bottom: 4px solid transparent;
+}
+
+.pbta.sheet .tabs .item.active {
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    text-shadow: 0px 0px 5px rgba(43,237,230,0.3);
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    color: #2bede6;
+    border: none;
+    background: linear-gradient(to bottom, rgba(43,237,230,0.1) 0%, rgba(43,237,230,0.2) 100%);
+    border-color: #2bede6;
+}
+
