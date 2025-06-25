@@ -9,14 +9,15 @@ Num futuro de expansão estelar e tensão ideológica, a abertura do [[Portal de
 
 
 ## [[Diagrama das Facções.canvas|Diagrama das Facções]]
-## Raças
- - [[Faeren]]
- - [[Lar’mir]]
- - [[Murnak]]
- - [[Zex]]
+
+##  Raças
+>  - [[Faeren]]
+>  - [[Lar’mir]]
+>  - [[Murnak]]
+>  - [[Zex]]
 
 ## Mapa do Setor Galáctico
-![[MapaSetor.png#zoom]]
+>![[MapaSetor.png#zoom]]
 
 
 

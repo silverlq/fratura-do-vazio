@@ -1,8 +1,7 @@
 
 /* BANNER IMAGE */
-
 img {
-  border-color: #2bede6;
+  border-color: rgba(43, 237, 230, 0.2) !important;
   border: 1px solid;
 }
 
@@ -50,21 +49,96 @@ div.markdown-source-view, div.markdown-preview-view {
   background-size: cover;
 }
 
-body {
-  --h1-color: #2bede6;
-  --h2-color: #2bede6;
-  --h3-color: #2bede6;
-  --h4-color: #2bede6;
-  --caret-color: #2bede6;
-  --link-color: #2bede6;
-  --text-normal: #aafffc !important;
-
-  --h1-font: "Bruno Ace SC", serif;
-  --h2-font: "Bruno Ace SC", serif;
-  --h3-font: "Bruno Ace SC", serif;
-  --h4-font: "Bruno Ace SC", serif;
+@font-face {
+  font-family: "Bruno Ace SC";
+  src: url("https://silverlq.github.io/fratura-do-vazio/media/BrunoAceSC-Regular.ttf");
 }
 
+body {
+  --h1-color: #aafffc;
+  --h2-color: #aafffc;
+  --h3-color: #aafffc;
+  --h4-color: #aafffc;
+  --caret-color: #aafffc;
+  --link-color: #aafffc;
+  --link-external-color: #aafffc;
+  --text-normal: #aafffc !important;
+
+  --h1-font: "Bruno Ace SC", sans-serif;
+  --h2-font: "Bruno Ace SC", sans-serif;
+  --h3-font: "Bruno Ace SC", sans-serif;
+  --h4-font: "Bruno Ace SC", sans-serif;
+  --h5-font: "Bruno Ace SC", sans-serif;
+}
+
+a {
+  font-weight: 300;
+  text-shadow: 0px 0px 5px rgba(43,237,230,0.3);
+  transition: all 0.4s ease;
+  color: #aafffc;
+  background-color: transparent;
+  text-decoration: underline !important;
+}
+
+h1, h2, h3, h4 {
+  color: #aafffc;
+  text-shadow: 0px 0px 5px rgba(43,237,230,0.3);
+  word-wrap: break-word;
+  hyphens: auto;
+  text-align: center !important;
+  box-sizing: border-box;
+  margin-top: 0;
+  margin-bottom: .5rem;
+  font-weight: 500;
+  font-family: "Pro Font Windows";
+  font-size: 48px;
+  line-height: 72px;
+  text-transform: uppercase;
+}
+
+div.HyperMD-quote, div.el-blockquote {
+  color: #aafffc;
+  text-align: left;
+  font-family: "Titillium Web",sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 24px;
+  text-shadow: 0px 0px 5px rgba(43,237,230,0.3);
+  word-wrap: break-word;
+  hyphens: auto;
+  box-sizing: border-box;
+  margin-bottom: 2rem;
+  padding-right: 0;
+  padding-left: 0;
+  border-radius: 0;
+  padding-top: 1.5rem !important;
+  padding-bottom: 1.5rem !important;
+  background: linear-gradient(to bottom, rgba(43,237,230,0.1) 0%, rgba(43,237,230,0.2) 100%);
+}
+
+blockquote, .cm-line::before {
+  border-inline-start-color: transparent !important;
+}
+
+svg.canvas-background {
+  background-color: black;
+}
+
+div.canvas-node-container {
+  border-color: rgba(43,237,230,0.3);
+}
+
+svg.canvas-edges path.canvas-interaction-path{
+  stroke: rgba(43,237,230,0.1) !important;
+}
+
+svg.canvas-edges path.canvas-display-path{
+  stroke: rgba(43,237,230,0.4) !important;
+}
+
+div.canvas-path-label {
+  background-color: rgba(10, 48, 46, 0.8);
+}
 
 /* ======================================================================================= */
 
